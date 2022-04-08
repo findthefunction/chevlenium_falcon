@@ -11,7 +11,12 @@
 4. Self driving analysis / training set development
 5. Autonomous navigation
 
-
+There are 5 predominant components of sefl driving cars:
+  - Computer vision 
+  - Sensor vision
+  - Localization
+  - Path planning
+  - Control
 
 
 
