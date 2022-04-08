@@ -10,3 +10,22 @@
   - Visually appealing information readouts
 4. Self driving analysis / training set development
 5. Autonomous navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+### References:
+https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/
+
+https://www.hindawi.com/journals/cin/2022/6390260/
+
+https://github.com/PacktPublishing/Applied-Deep-Learning-and-Computer-Vision-for-Self-Driving-Cars
