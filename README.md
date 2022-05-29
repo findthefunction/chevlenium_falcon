@@ -25,7 +25,13 @@ There are 5 predominant components of self driving cars:
 
 
 
-
+rough notes:
+-integrate serviveable components with simplicity and reliability being foremost
+-data collection for autonous modeling (route mapping, "assisted" autopilot
+  - gravel, backroad, rough terrain, high elevation 
+  - inclimate weather 
+  - wildlife detection / avoidance
+  - 
 
 
 ### References:
